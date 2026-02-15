@@ -12,3 +12,4 @@ const Rightcontent = (props) => {
 }
 
 export default Rightcontent
+                          
